@@ -8,7 +8,7 @@ At this point in time, we don't need to convince anyone that the Open Source dev
 
 However, what the FOSS community hasn't tackled well is the issue of paying for the development of FOSS. To date, most open source code is either:
 
-1. Developed as an in-house project by a company, and open sourced for strategic advantage ([commodifying a complement](http://www.joelonsoftware.com/articles/StrategyLetterV.html)
+1. Developed as an in-house project by a company, and open sourced for strategic advantage ([commodifying a complement](http://www.joelonsoftware.com/articles/StrategyLetterV.html))
 2. Developed entirely by volunteers.
 
 In some cases, a combination of the two is used. 
