@@ -39,6 +39,7 @@ Do you know of a video, book, blog post, or other resource that you think people
 
 * [Money Money Money: Writing software, in a rich (wo)man's world - Russell Keith-Magee](https://www.youtube.com/watch?v=mY8B2lXIu6g)
 * [Funding FOSS - Noah Kantrowitz](https://coderanger.net/funding-foss/)
+* [Open Source Funding Models - Marcus Kazmierczak](https://mkaz.github.io/2014/04/07/open-souce-funding-models/)
 
 ## License 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All content submitted to this project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
