@@ -40,10 +40,11 @@ Do you know of a video, book, blog post, or other resource that you think people
 * [Money Money Money: Writing software, in a rich (wo)man's world - Russell Keith-Magee](https://www.youtube.com/watch?v=mY8B2lXIu6g)
 * [Funding FOSS - Noah Kantrowitz](https://coderanger.net/funding-foss/)
 * [Open Source Funding Models - Marcus Kazmierczak](https://mkaz.github.io/2014/04/07/open-souce-funding-models/)
-* Three books that may be useful individually or in total, for people who haven't had to give much thought to business models in the past:
+* Four books that may be useful individually or in total, for people who haven't had to give much thought to business models in the past:
     * [Business Model Generation](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/): A general, succinct approach to looking at business model ideas
     * [Business Model You](http://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315/): Same as above, but applied to INDIVIDUAL careers. This may be useful to current contributors trying to figure out how to find a 'business model' that works better for them.
     * [Value Proposition Design](http://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/): A more detailed look at how to provide something of value to customers, a.k.a., "something people will pay for".
+    * [Producing Open Source Software](http://producingoss.com/) : A complete guide to the human side of managing an open source project, contains sections on funding models but gives some insights into how to manage a sucessful FOSS project. Written by [Karl Fogel](http://www.red-bean.com/kfogel/)
 
 
 ## License 
