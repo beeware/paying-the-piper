@@ -23,7 +23,7 @@ The usual answers to this problem are:
 
 1. **Start a consulting company.** This is a nice idea, but it rarely works in practice. As soon as you are a consultant, the economic realities of running a company mean you focus on making money - and the things that people are willing to pay consultants for are rarely directly aligned with the long term maintenance tasks of a project.
 2. **Give away the razor, sell razor blades.** This works fine as long as your project has some add on that can be sold. However, not all projects can do this.
-2. **Find a patron company.** Get employed by a company that is willing to take on the economic "burden" of hiring a developer that doesn't contribute directly to their own bottom line. There's also the equity issue - why should one company pick up the tab for an entire developer, when their neighbour/competitor who uses the same software doesn't contribute at all?
+3. **Find a patron company.** Get employed by a company that is willing to take on the economic "burden" of hiring a developer that doesn't contribute directly to their own bottom line. There's also the equity issue - why should one company pick up the tab for an entire developer, when their neighbour/competitor who uses the same software doesn't contribute at all?
 
 These three approaches also lend themselves to maintaining existing projects, not starting new projects. The FOSS equivalent of "Venture capital" doesn't exist.
 
