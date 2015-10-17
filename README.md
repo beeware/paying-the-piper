@@ -25,7 +25,7 @@ The usual answers to this problem are:
 2. **Give away the razor, sell razor blades.** This works fine as long as your project has some add on that can be sold. However, not all projects can do this.
 2. **Find a patron company.** Get employed by a company that is willing to take on the economic "burden" of hiring a developer that doesn't contribute directly to their own bottom line. There's also the equity issue - why should one company pick up the tab for an entire developer, when their neighbour/competitor who uses the same software doesn't contribute at all?
 
-These two approaches also lend themselves to maintaining existing projects, not starting new projects. The FOSS equivalent of "Venture capital" doesn't exist.
+These three approaches also lend themselves to maintaining existing projects, not starting new projects. The FOSS equivalent of "Venture capital" doesn't exist.
 
 New models for funding FOSS development are clearly needed. The purpose of this project is to collect and discuss ideas for new funding models, in the hope that as a community of software developers, we can solve this problem, and see less of our friends and colleagues burn out in front of us.
 
