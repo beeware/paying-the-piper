@@ -31,6 +31,8 @@ New models for funding FOSS development are clearly needed. The purpose of this 
 
 ## How to contribute
 
+Please, before contributing, read our [Code Of Conduct](CODE_OF_CONDUCT.md).
+
 Have you got an idea for a way that we could pay for FOSS development? Open a ticket, and start a discussion around the specifics of that idea.
 
 Do you know of a video, book, blog post, or other resource that you think people should read? Submit a PR against this readme.
