@@ -14,8 +14,8 @@ This document focuses mostly on point 2. If there's GOING to be a business model
 
 Some quick thinking makes it clear that there are at LEAST two different groups of (commercial) customers, ie "people using it for business", for most projects:
 
--  Large, commercial customers (for Django, Instagram, Pinterest, etc)
--  Smaller (1-10 person? Pick a value of *small*) commercial users
+-  Large, commercial customers: (any well-know commercial enterprise using your project)
+-  Smaller (1-10 person? Pick a value of *small*) commercial users: these may be consultants or smaller commercial enterprises using your project.
 
 Focusing on the larger, commercial customers, it would be useful to *start* a list of "large" users of your project (with 'large' NOT being well defined at the moment). The goal is to start identifying customers and figuring out what kind of relationship your project does or can have with them. Know WHO they are will also shed light on *how* to create something they will value. Which leads to creating a value exchange based ON that relationship. There may be things I'm NOT aware of, but as far as I know now, the relationship of a LOT of FLOSS projects to their customers is:
 >  Customers: We download `insert your FLOSS project here` and use it.
