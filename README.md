@@ -31,7 +31,7 @@ New models for funding FOSS development are clearly needed. The purpose of this 
 
 ## What this project isn't
 
-There are lots of ideas out there already about open source development on the small scale. 20% time, [The Two Day Manifesto](http://twodaymanifesto.com), and related ideas area all about employees finding small pieces of time inside their existing employment engagements to contribute to Open Source. These are all welcome contributions, but it's not the problem we're trying to solve here.
+There are lots of ideas out there already about open source development on the small scale. 20% time, [The Two Day Manifesto](http://twodaymanifesto.com) ([archive](https://archive.is/JrWn8)), and related ideas area all about employees finding small pieces of time inside their existing employment engagements to contribute to Open Source. These are all welcome contributions, but it's not the problem we're trying to solve here.
 
 In addition to lots of small contributions, there is a need for dedicated, full time attention. The larger the project, the bigger this need becomes. A large project (something like a web framework, or a programming language, or a widget toolkit) requires the dedicated attention of one person - or preferably more - to provide high level design guidance, to design and develop the huge features, and just keep the wheels turning for all the smaller contributions. Funding *these* individuals - full time, dedicated project management and contribution staff - is the problem that needs to be solved.
 
