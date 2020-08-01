@@ -1,6 +1,6 @@
-#Identify your customers
+# Identify your customers
 
-##Rationale
+## Rationale
 This is a result of spending a weekend at [Innovate Houston](http://cvcx.org/accelerate-houston-2/), working to develop a viable business model for Django (and, by extension, other FLOSS projects). One thing we did was use the [Impact Canvas](http://www.socialblueprint.org/wp-content/uploads/2015/02/ISA_The-Social-Blueprint_-Impact-Canvas_v3.21.pdf), a version of the [Business Model Canvas](http://www.businessmodelgeneration.com/canvas/bmc). For those unfamiliar, the BMC is a 1 page way to quickly see the key points of your business model, to see if they make sense.
 
 
@@ -25,7 +25,7 @@ There's no business model there. Identifying the customers more clearly makes it
 
 
 
-##Going forward
+## Going forward
 This isn't intended to be a complete or exhaustive list, it's TWO things:
 
 -  A starting point, for listing significant customers of your FLOSS project.
