@@ -48,6 +48,7 @@ Do you know of a video, book, blog post, or other resource that you think people
 * [Money Money Money: Writing software, in a rich (wo)man's world - Russell Keith-Magee](https://www.youtube.com/watch?v=mY8B2lXIu6g)
 * [Funding FOSS - Noah Kantrowitz](https://coderanger.net/funding-foss/)
 * [Open Source Funding Models - Marcus Kazmierczak](https://mkaz.blog/misc/open-souce-funding-models/)
+* [nayafia/lemonade-stand -  A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)
 * Books that may be useful individually or in total, for people who haven't had to give much thought to business models in the past:
     * [Business Model Generation](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/): A general, succinct approach to looking at business model ideas
     * [Business Model You](http://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315/): Same as above, but applied to INDIVIDUAL careers. This may be useful to current contributors trying to figure out how to find a 'business model' that works better for them.
